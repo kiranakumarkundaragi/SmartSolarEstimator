@@ -224,5 +224,3 @@ elif page == "More":
     st.write("🔑 👤 🛡️")
 
 st.caption("Disclaimer: Estimates are approximate. Consult a licensed solar installer for exact sizing.")
-st.write("The mini project is done by Thimmeshi, Kiran, Praveen, and Venkatesh.")
-st.write("Guided by: Dr. Chailesh Chandra")
